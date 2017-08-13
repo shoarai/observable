@@ -1,0 +1,14 @@
+{
+  "name": "observable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "observable.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "shoarai",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^2.7.0"
+  }
+}
